@@ -20,7 +20,7 @@ Work experience
   * Pratt & Whitney, East Hartford Connecticut
   * Mechanical Systems Group; responsible for Geared Turbofan (GTF) engines
 
-* Undergraduate Researcher
+* Undergraduate Researcher (Summer 2018)
   * University of Massachusetts Amherst, Amherst Massachusetts
   * Intelligent Sensing Lab under Prof. Xian Du
   * Developed mechanical autofocus system
